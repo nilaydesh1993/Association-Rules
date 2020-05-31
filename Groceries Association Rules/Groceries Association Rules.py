@@ -11,7 +11,7 @@ from mlxtend.frequent_patterns import apriori,association_rules
 pd.set_option('display.max_columns',12)
 
 # ===================================================================================
-# Business Problem :- Association Rules on Groceries Dataset
+# Business Problem :- Association Rules on Groceries Data.
 # ===================================================================================
 
 groceries = []  #Empty List Groceries
