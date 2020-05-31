@@ -12,7 +12,7 @@ from mlxtend.frequent_patterns import apriori,association_rules
 pd.set_option('display.max_columns',12)
 
 # ===================================================================================
-# Business Problem :- Association Rules on Book Dataset
+# Business Problem :- Association Rules on Book Data.
 # ===================================================================================
 
 book = pd.read_csv("book.csv")
